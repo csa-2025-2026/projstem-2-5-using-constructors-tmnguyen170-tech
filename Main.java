@@ -48,6 +48,6 @@ public class Main
     System.out.println(poly1.toString());
     System.out.println(poly2.toString());
 
-
+    System.out.print("Skibidi Rizz");
   }
 }
